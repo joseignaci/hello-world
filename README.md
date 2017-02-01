@@ -1,2 +1,3 @@
 # hello-world
-Aprendiendo a usar GitHub
+Aprendiendo como usar GitHub
+Para no ir demasiado pez al taller de Geoinquietos sobre webmapping
